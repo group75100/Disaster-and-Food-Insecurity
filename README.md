@@ -1,4 +1,4 @@
-# Disaster-and-Food-Insecurity 
+# Disaster and Food Insecurity 
 ###  Research Question: 
 What are the impacts of disaster(natural) on the food security as defined by the Food and Agriculture institution(FAO)
 The independent variable is the magnitude of the disasters that occurred at a given year and given country. The dependent variable would be the prevalence of food insecurity measured by indicators : prevalence of undernourishment and prevalence of severe food insecurity, and prevalence of moderate food insecurity. These values are measured by FAO. 
