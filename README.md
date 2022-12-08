@@ -11,5 +11,18 @@ EMDAT Centre for Centre for Research on Epidemiology of Disasters is a non profi
 The Food and Agriculture Organization (FAO) is a specialized agency of the United Nations leading international efforts to defeat hunger. FAO's goal is to achieve food and security for all and make sure that people have regular access to enough high-quality food and lead active, healthy lives. It keeps meta deta on global hunger, 
 
 ## ABOUT THE RESEARCH
-  Hunger is a global issue and millions of people are suffering from it. Food insecurity is defined by FAO as the lack of availability at all times of adequate world food supplies of basic foodstuffs to sustain a steady expansion of food consumption and to offset fluctuations in production and prices. Similarly, climate change is a pressing issue and its frequency is increasing. These disasters can have devastating impacts on food insecurity. This research paper, aims to address this issue and examine the impact of disasters on food insecurity (specifically % of malnourishment). This can help us anticipate the impact of disasters on food insecurity which can help us prepare and direct resources appropriately in disasters impacted areas. Our research can help anticipate impacts of disasters on food insecurity and minimize the impacts on vulnerable populations. 
- 
+  Hunger is a global issue and millions of people are suffering from it. Food insecurity is defined by FAO as the lack of availability at all times of adequate world food supplies of basic foodstuffs to sustain a steady expansion of food consumption and to offset fluctuations in production and prices. Similarly, climate change is a pressing issue and its frequency is increasing. These disasters can have devastating impacts on food insecurity. This research paper, aims to address this issue and examine the impact of disasters on food insecurity (specifically % of malnourishment). This can help us anticipate the impact of disasters on food insecurity which can help us prepare and direct resources appropriately in disasters impacted areas. 
+  
+  ## VARIABLE OF INTEREST
+  * Percentage of malnourishment (undernourish%)
+  * Disaster Type and Magintude(Mag)
+  * Pecentage of moderately and severely undernourished population (m/s_ finsec%)
+  * Consumer Price Index (CPI)
+  * Per Capita Food Production (pcal_fprod)
+
+## Analytic Approach 
+
+
+
+## Technology used: 
+Python, Tableau, Google Collab
