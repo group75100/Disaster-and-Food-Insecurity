@@ -36,3 +36,5 @@ In addition to this 3 types of disasters namely flood, storm and earthquake and 
 * final_project.ipynb - the colab notebook we worked on.
 * visualizations - tableau file containing some visualizations.
 * references - file having all the references and data sources.
+* Data 5100 Analysis Project Presentation
+
