@@ -19,10 +19,20 @@ The Food and Agriculture Organization (FAO) is a specialized agency of the Unite
   * Pecentage of moderately and severely undernourished population (m/s_ finsec%)
   * Consumer Price Index (CPI)
   * Per Capita Food Production (pcal_fprod)
+  
+##Solution Technologies
+Github, Google Colab,Tableau, Python, Zoom, Canvas, Google docs.
 
-## Analytic Approach 
+## Analytic Approach and Conclusion 
+In the project, we first transformed the FOASTAT_data.csv from long format to wide format and then merged it to the dataset emdat.csv to get one dataset.
+And in this dataset, there are many NULL values especially in the diasaster magnitude column(Mag). As each type of disaster has different scale to calculate the magnitude, we imputed the values using MICE imputation by for each type of disaster(DisType) and also normalized the data using MinMaxScaler(). This gives us the final data which can be trained further. 
+Coming to the modeling, we splitted the data into train and test sets using traintestsplit() of sklearn and then trained using multiple models like CNN, random forest, linear regression and multiple linear regression. As the data has more non-linearity, CNN and random forest best fitted the data with a mean squared error of 0.05.
+In addition to this 3 types of disasters namely flood, storm and earthquake and trained the models using these grouped data. From this analysis, the mean squared error of flood and storm is much closer to 0. Hence, we can conclude that flood and storm has much impact on food insecurity compared to earthquake
 
-
-
-## Technology used: 
-Python, Tableau, Google Collab
+## Contents of the Repository
+FOASTAT_data.csv - food insecurity dataset
+emdat.csv - disasters dataset
+final_normalized_data - final data with a column named normalized having the normalized values of magnitude.
+final_project.ipynb - the colab notebook we worked on.
+visualizations - tableau file containing some visualizations.
+references - file having all the references and data sources.
