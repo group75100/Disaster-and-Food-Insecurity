@@ -30,9 +30,9 @@ Coming to the modeling, we splitted the data into train and test sets using trai
 In addition to this 3 types of disasters namely flood, storm and earthquake and trained the models using these grouped data. From this analysis, the mean squared error of flood and storm is much closer to 0. Hence, we can conclude that flood and storm has much impact on food insecurity compared to earthquake
 
 ## Contents of the Repository
-FOASTAT_data.csv - food insecurity dataset
-emdat.csv - disasters dataset
-final_normalized_data - final data with a column named normalized having the normalized values of magnitude.
-final_project.ipynb - the colab notebook we worked on.
-visualizations - tableau file containing some visualizations.
-references - file having all the references and data sources.
+* FOASTAT_data.csv - food insecurity dataset
+* emdat.csv - disasters dataset
+* final_normalized_data - final data with a column named normalized having the normalized values of magnitude.
+* final_project.ipynb - the colab notebook we worked on.
+* visualizations - tableau file containing some visualizations.
+* references - file having all the references and data sources.
